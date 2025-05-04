@@ -96,4 +96,4 @@ if uploaded_file is not None:
 
         st.success(f"**Prediction:** {label}")
         st.info(f"**Confidence:** {confidence * 100:.2f}%")
- 19de6cf595114dd7d68f547603a922041a713776
+ 
